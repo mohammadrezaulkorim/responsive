@@ -1,0 +1,119 @@
+@media (max-width:1240px){
+    .hedear-menu ul li a {
+        padding: 11px 14px;
+        font-size: 17px;
+    }
+    .Bnner-section {
+        padding: 173px 0;
+    }
+    .inner-servic-item {
+        margin-left: 0px;
+    }
+}
+@media (max-width:1040px){
+    .Bnner-section {
+        padding: 130px 0;
+    }
+    .banner-title h1 {
+        font-size: 34px;
+    }
+    .banner-title p {
+        margin-top: 12px;
+    }
+    .servic-section {
+        padding: 37px 23px;
+    }
+    .inner-servic-item {
+        width: 48%;
+        padding: 22px;
+
+    }
+    .About-us-item-content {
+        padding: 0 15px;
+    }
+    .About-us-item {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .About-us-item-content {
+        float: none;
+        width: 100%;
+    }.About-us-inner-item h2 {
+        text-align: center;
+        font-size: 30px;
+    }
+}
+@media (max-width:870px){
+    .hedear-menu ul li a {
+        padding: 11px 6px;
+        font-size: 16px;
+    }
+    .hedear-img h2 {
+        font-size: 20px;
+    }
+    .Bnner-section {
+        padding: 90px 0;
+    }
+    .banner-title h1 {
+        font-size: 28px;
+    }
+    .banner-title p {
+        margin-bottom: 20px;
+    }
+}
+@media (max-width:686px){
+    .hedear-menu {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .hedear-img {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .Bnner-section {
+        padding: 50px 0;
+    }
+    .inner-servic-item {
+        width: 100%;
+    }
+    .contact-us-title {
+        padding: 0 15px;
+    }
+    .contact-us-inner-item {
+        float: none;
+        width: 100%;
+        margin-bottom: 26px;
+        border-bottom: 1px solid #606060;
+        padding-bottom: 27px;
+    }
+    .footer-section ul li a {
+        padding: 13px 13px;
+        font-size: 18px;
+    }
+    .footer-bottom p {
+        font-size: 14px;
+    }
+
+}
+@media (max-width:470px){
+    .hedear-menu ul li a {
+        padding: 5px 3px;
+        font-size: 13px;
+    }
+    .hedear-img h2 {
+        font-size: 26px;
+    }
+    .Bnner-section {
+        padding: 32px 0;
+    }
+    .banner-title h1 {
+        font-size: 21px;
+    }
+    .banner-title p {
+        font-size: 15px;
+    }
+
+} 
